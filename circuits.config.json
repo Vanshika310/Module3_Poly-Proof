@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Circuit",
+    "protocol": "groth16",
+    "circuit": "Circuit/circuit.circom",
+    "input": "Circuit/input.json",
+    "wasm": "Circuit/out/circuit.wasm",
+    "zkey": "Circuit/out/Circuit.zkey",
+    "vkey": "Circuit/out/Circuit.vkey",
+    "r1cs": "Circuit/out/Circuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
